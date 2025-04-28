@@ -74,7 +74,9 @@ left: 90%;
 transform: translate(-90%,-50%);
 }
 
-.section1Button h1, h2{
+.section1Button h1,
+.section1Button h2 {
+
     font-family: Roboto;
     font-weight: bold;
     margin: 0px;
